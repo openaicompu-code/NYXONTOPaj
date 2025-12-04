@@ -51,7 +51,7 @@
 </div>
 
 <script>
-    const PASSWORD = "mi_contraseña"; // <<--- CAMBIÁ LA CONTRASEÑA ACÁ
+    const PASSWORD = "clave123"; // CAMBIÁ LA CONTRASEÑA ACÁ
 
     function checkPass() {
         const input = document.getElementById("pass").value;
